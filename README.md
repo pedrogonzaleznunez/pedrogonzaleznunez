@@ -1,5 +1,5 @@
 ## About me
-Hi, I’m Pedro, a 22-year-old Software Engineering student at ITBA with experience in low-level programming, backend development, and modern full-stack web technologies.
+Hi, I’m Pedro, a 23-year-old Software Engineering student at ITBA with experience in low-level programming, backend development, and modern full-stack web technologies.
 
 
 ## These are my skills:
