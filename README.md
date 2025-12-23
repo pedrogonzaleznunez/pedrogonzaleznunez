@@ -1,5 +1,5 @@
 ## Hi there, 
-I'm Pedro, a 22-year-old Software Eng. Student at ITBA
+I'm Pedro, a 23-year-old Software Eng. Student at ITBA
 
 
 ### These are my skills
